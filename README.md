@@ -17,17 +17,17 @@
 
 **了解全貌**
 
-[知乎第一个和第二个回答](https://www.zhihu.com/question/20899988)
+- [知乎第一个和第二个回答](https://www.zhihu.com/question/20899988)
 
 **关于爬虫**
 
-[《Python爬虫学习系列教程》学习笔记](http://www.cnblogs.com/xin-xin/p/4297852.html)
+- [《Python爬虫学习系列教程》学习笔记](http://www.cnblogs.com/xin-xin/p/4297852.html)
 
 **关于正则表达式**
 
-[正则表达式](http://cuiqingcai.com/977.html)
+- [正则表达式](http://cuiqingcai.com/977.html)
 
-几个常用的搭配
+  几个常用的搭配
 
 > 1）.*? 是一个固定的搭配，.和*代表可以匹配任意无限多个字符，加上？表示使用非贪婪模式进行匹配，也就是我们会尽可能短地做匹配，以后我们还会大量用到 .*? 的搭配。
 >
